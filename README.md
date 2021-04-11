@@ -1,4 +1,4 @@
-# Citadel-Regional-EastCoast
+# Citadel-Regional-EastCoast-Datathon
 
 The goal is to use the various football data streams in order to discover and analyze patterns in football team performance and match outcomes, and make recommendations about optimal club construction or effective betting strategies. More broadly, you should analyze the given European football data holistically to identify the characteristics of clubs that make them most successful.
 </b>
